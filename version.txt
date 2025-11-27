@@ -1,1 +1,1 @@
-1.1.4;https://github.com/cl0078079-create/Firmware/releases/download/Esp_1.1.4/OTA_VERSION.ino.bin
+1.1.5;https://github.com/cl0078079-create/Firmware/releases/download/Esp_1.1.5/OTA_VERSION.ino.bin
