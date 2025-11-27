@@ -1,1 +1,1 @@
-1.3.0
+1.1.0;https://github.com/cl0078079-create/Firmware/releases/download/Esp_32_FW1.3.0/OTA_VERSION.ino.bin
