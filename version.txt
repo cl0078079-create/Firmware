@@ -1,1 +1,1 @@
-1.1.1;https://github.com/cl0078079-create/Firmware/releases/download/esp32_firmware/OTA_VERSION.ino.bin
+1.1.2;https://github.com/cl0078079-create/Firmware/releases/download/1.1.2/OTA_VERSION.ino.bin
