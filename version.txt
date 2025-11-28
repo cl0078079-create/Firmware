@@ -1,1 +1,1 @@
-1.0.1;https://github.com/cl0078079-create/Firmware/releases/download/Esp32_v1.0.1/OTA_FIRMWARE_AUTO_V2.0.ino.bin
+1.0.2;https://github.com/cl0078079-create/Firmware/releases/download/Esp32_v1.0.2/OTA_FIRMWARE_AUTO_V1_0_2.ino.bin
